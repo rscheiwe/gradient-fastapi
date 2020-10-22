@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "name": "Database Configuration",
+        "author": "richard_scheiwe",
+        "recency": "10 Oct 2020",
+        "description": "Configuration variables for databases",
+        "keywords": [
+            "database",
+            "data"
+        ],
+        "allowed": [
+            "[a-zA-Z0-9_]"
+        ]
+    },
+    "vertica_params": {
+        "host": "",
+        "port": "",
+        "user": "",
+        "password": "",
+        "database": "",
+        "connection_timeout": 120
+    },
+    "mysql_params": {
+
+    },
+    "kusto_params": {
+
+    }
+}
