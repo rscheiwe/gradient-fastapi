@@ -66,7 +66,7 @@ pytest --cov=gradient tests/
 
 #### Note on File Structure and Current Endpoints:
 
-A "relic" endpoint is found at `gradient > api > routes > crawler_content_routes`, which should be treated as a skeleton endpoint for templating.
+A "relic" endpoint is found at `gradient > api > routes > content_routes`, which should be treated as a skeleton endpoint for templating.
 
 #### Note on Docs:
 
